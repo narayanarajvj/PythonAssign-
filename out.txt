@@ -1,0 +1,7 @@
+Hello
+Python
+World
+Language
+Python
+Is
+LanguageEasy
